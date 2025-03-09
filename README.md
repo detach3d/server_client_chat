@@ -7,14 +7,6 @@ This project provides a simple C++ server-client application for Linux that allo
 - **C++**: The application is written in C++.
 - **Linux**: The project is designed to run on a Linux-based system.
 
-## Prerequisites
-
-To run this project, ensure you have:
-
-- A C++ compiler (e.g., `g++`).
-- A Linux-based system (or WSL on Windows).
-- Basic knowledge of compiling and running C++ programs in Linux.
-
 ## Getting Started
 
 Follow these steps to set up and run the server and client:

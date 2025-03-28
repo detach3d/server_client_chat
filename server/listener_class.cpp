@@ -88,7 +88,7 @@
                 close(accept_fd);
             }
             
-            //freeaddrinfo(servinfo);
+            freeaddrinfo(servinfo);
         }
 
        
